@@ -2,6 +2,8 @@
 
 Automatically fills PDF forms from incoming emails using AI. Built with [FastMCP](https://gofastmcp.com) for Model Context Protocol integration.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/akarnik23/interaction-challenge)
+
 ## Overview
 
 This MCP server automates the complete workflow of:
